@@ -1,0 +1,14 @@
+[
+  {
+    "id": "sub_cap_001",
+    "categoryName": "Geography",
+    "subjectName": "World Capitals",
+    "description": "200 questions covering all countries and major territories.",
+    "questionCount": 200,
+    "sizeBytes": 53248,
+    "version": 1.0,
+    "downloadUrl": "https://raw.githubusercontent.com/dev-Aatif/ergo-db/main/databases/capitals_v1.0.db",
+    "colorHex": "#3498db",
+    "iconUrl": "earth"
+  }
+]
