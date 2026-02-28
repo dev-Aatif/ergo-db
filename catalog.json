@@ -10,5 +10,53 @@
     "downloadUrl": "https://raw.githubusercontent.com/dev-Aatif/ergo-db/main/databases/capitals_v1.0.db",
     "colorHex": "#3498db",
     "iconUrl": "earth"
+  },
+  {
+    "id": "sub_bor_001",
+    "categoryName": "Geography",
+    "subjectName": "Countries & Borders",
+    "description": "200 questions covering international borders, neighbors, and landlocked nations.",
+    "questionCount": 200,
+    "sizeBytes": 57344,
+    "version": 1.0,
+    "downloadUrl": "https://raw.githubusercontent.com/dev-Aatif/ergo-db/main/databases/borders_v1.0.db",
+    "colorHex": "#3498db",
+    "iconUrl": "earth"
+  },
+  {
+    "id": "sub_riv_001",
+    "categoryName": "Geography",
+    "subjectName": "Rivers & Lakes",
+    "description": "150 questions covering major rivers, lakes, and water bodies around the world.",
+    "questionCount": 160,
+    "sizeBytes": 53248,
+    "version": 1.0,
+    "downloadUrl": "https://raw.githubusercontent.com/dev-Aatif/ergo-db/main/databases/rivers_v1.0.db",
+    "colorHex": "#3498db",
+    "iconUrl": "earth"
+  },
+  {
+    "id": "sub_mtn_001",
+    "categoryName": "Geography",
+    "subjectName": "Mountains & Volcanoes",
+    "description": "150 questions covering the highest peaks, mountain ranges, and famous volcanoes.",
+    "questionCount": 150,
+    "sizeBytes": 53248,
+    "version": 1.0,
+    "downloadUrl": "https://raw.githubusercontent.com/dev-Aatif/ergo-db/main/databases/mountains_v1.0.db",
+    "colorHex": "#3498db",
+    "iconUrl": "earth"
+  },
+  {
+    "id": "sub_fac_001",
+    "categoryName": "Geography",
+    "subjectName": "Country Facts",
+    "description": "300 questions covering population, currency, and languages of countries.",
+    "questionCount": 150,
+    "sizeBytes": 49152,
+    "version": 1.0,
+    "downloadUrl": "https://raw.githubusercontent.com/dev-Aatif/ergo-db/main/databases/country_facts_v1.0.db",
+    "colorHex": "#3498db",
+    "iconUrl": "earth"
   }
 ]
