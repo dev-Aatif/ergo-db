@@ -94,5 +94,77 @@
     "downloadUrl": "https://raw.githubusercontent.com/dev-Aatif/ergo-db/main/databases/movies_v1.0.db",
     "colorHex": "#9b59b6",
     "iconUrl": "movie"
+  },
+  {
+    "id": "sub_lat_eng_001",
+    "categoryName": "LAT Preparation",
+    "subjectName": "English: Synonyms & Antonyms",
+    "description": "150 crucial vocabulary questions for the Law Aptitude Test (LAT).",
+    "questionCount": 150,
+    "sizeBytes": 69632,
+    "version": 1.0,
+    "downloadUrl": "https://raw.githubusercontent.com/dev-Aatif/ergo-db/main/databases/lat_english_v1.0.db",
+    "colorHex": "#e74c3c",
+    "iconUrl": "gavel"
+  },
+  {
+    "id": "sub_lat_prep_001",
+    "categoryName": "LAT Preparation",
+    "subjectName": "English: Prepositions",
+    "description": "150 essential preposition fill-in-the-blank questions for the Law Aptitude Test.",
+    "questionCount": 150,
+    "sizeBytes": 61440,
+    "version": 1.0,
+    "downloadUrl": "https://raw.githubusercontent.com/dev-Aatif/ergo-db/main/databases/lat_prepositions_v1.0.db",
+    "colorHex": "#e74c3c",
+    "iconUrl": "gavel"
+  },
+  {
+    "id": "sub_lat_math_001",
+    "categoryName": "LAT Preparation",
+    "subjectName": "Mathematics",
+    "description": "150 crucial geometry, algebra, and basic arithmetic questions for the Law Aptitude Test.",
+    "questionCount": 150,
+    "sizeBytes": 57344,
+    "version": 1.0,
+    "downloadUrl": "https://raw.githubusercontent.com/dev-Aatif/ergo-db/main/databases/lat_math_v1.0.db",
+    "colorHex": "#e74c3c",
+    "iconUrl": "gavel"
+  },
+  {
+    "id": "sub_lat_gk_001",
+    "categoryName": "LAT Preparation",
+    "subjectName": "General Knowledge",
+    "description": "150 General Knowledge questions covering world geography, science, history, and current affairs (LAT Prep).",
+    "questionCount": 150,
+    "sizeBytes": 61440,
+    "version": 1.0,
+    "downloadUrl": "https://raw.githubusercontent.com/dev-Aatif/ergo-db/main/databases/lat_gk_v1.0.db",
+    "colorHex": "#e74c3c",
+    "iconUrl": "gavel"
+  },
+  {
+    "id": "sub_lat_ps_001",
+    "categoryName": "LAT Preparation",
+    "subjectName": "Pakistan Studies",
+    "description": "150 comprehensive Pakistan Studies questions covering the Independence Movement, Geography, and Constitution.",
+    "questionCount": 150,
+    "sizeBytes": 65536,
+    "version": 1.0,
+    "downloadUrl": "https://raw.githubusercontent.com/dev-Aatif/ergo-db/main/databases/lat_ps_v1.0.db",
+    "colorHex": "#e74c3c",
+    "iconUrl": "gavel"
+  },
+  {
+    "id": "sub_lat_islamiat_001",
+    "categoryName": "LAT Preparation",
+    "subjectName": "Islamiat",
+    "description": "150 comprehensive Islamiat questions covering Quranic knowledge, Seerah, and Islamic history.",
+    "questionCount": 150,
+    "sizeBytes": 65536,
+    "version": 1.0,
+    "downloadUrl": "https://raw.githubusercontent.com/dev-Aatif/ergo-db/main/databases/lat_islamiat_v1.0.db",
+    "colorHex": "#e74c3c",
+    "iconUrl": "gavel"
   }
 ]
